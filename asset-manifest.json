@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9c97341.chunk.css",
+    "main.js": "/static/js/main.754403b9.chunk.js",
+    "main.js.map": "/static/js/main.754403b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cdda94e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cdda94e0.js.map",
+    "static/js/2.f6ec501e.chunk.js": "/static/js/2.f6ec501e.chunk.js",
+    "static/js/2.f6ec501e.chunk.js.map": "/static/js/2.f6ec501e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8ce428cd1a0bbe45459660eabaec6ed7.js": "/precache-manifest.8ce428cd1a0bbe45459660eabaec6ed7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b9c97341.chunk.css.map": "/static/css/main.b9c97341.chunk.css.map",
+    "static/js/2.f6ec501e.chunk.js.LICENSE.txt": "/static/js/2.f6ec501e.chunk.js.LICENSE.txt",
+    "static/media/p1.jpg": "/static/media/p1.ad94bd90.jpg",
+    "static/media/style.css": "/static/media/p2.fae6fe85.jpg",
+    "static/media/p3.jpg": "/static/media/p3.126880ce.jpg",
+    "static/media/product1.jpg": "/static/media/product1.5ce479b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdda94e0.js",
+    "static/js/2.f6ec501e.chunk.js",
+    "static/css/main.b9c97341.chunk.css",
+    "static/js/main.754403b9.chunk.js"
+  ]
+}
